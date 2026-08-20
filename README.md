@@ -1,4 +1,4 @@
-﻿# Cultivo — documentos legais
+# Cultivo — documentos legais
 
 Páginas públicas da Política de Privacidade e dos Termos de Uso do
 aplicativo Cultivo (`com.cannalogbook.cultivo_app`), servidas via
