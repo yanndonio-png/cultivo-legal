@@ -6,6 +6,7 @@ GitHub Pages:
 
 - [Política de Privacidade](https://yanndonio-png.github.io/cultivo-legal/privacy.html)
 - [Termos de Uso](https://yanndonio-png.github.io/cultivo-legal/terms.html)
+- [Excluir sua conta](https://yanndonio-png.github.io/cultivo-legal/excluir-conta.html)
 
 O texto é a cópia pública de `assets/legal/` no repositório privado
 `cultivo-app`. Não edite o HTML à mão — regenere a partir do app:
